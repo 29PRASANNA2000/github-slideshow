@@ -1,4 +1,6 @@
-GEM
+GEMgit checkout main
+git merge --no-ff my-slide
+git push origin main
   remote: https://rubygems.org/
   specs:
     activesupport (6.0.3.6)
